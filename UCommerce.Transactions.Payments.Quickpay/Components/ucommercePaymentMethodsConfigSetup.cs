@@ -22,8 +22,6 @@ namespace UCommerce.Transactions.Payments.Unzer.Components
             //unsubscribe during shutdown
         }
 
-
-
         public UcommercePaymentMethodsConfigSetup()
         {
             var versionInfo = FileVersionInfo.GetVersionInfo(Assembly.GetExecutingAssembly().Location);

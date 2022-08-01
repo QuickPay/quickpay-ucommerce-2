@@ -474,7 +474,6 @@
     <Compile Include="Models\PaymentResponse.cs" />
     <Compile Include="Models\RequestFailed.cs" />
     <Compile Include="Models\Settings.cs" />
-    <Compile Include="obj\Release\.NETFramework,Version=v4.8.AssemblyAttributes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegisterEvents.cs" />
     <Compile Include="UnzerClient.cs" />
@@ -1594,6 +1593,7 @@
     <Content Include="packages\UmbracoCms.Web.8.18.3\lib\net472\Umbraco.Web.UI.dll" />
     <Content Include="packages\UmbracoCms.Web.8.18.3\lib\net472\Umbraco.Web.UI.xml" />
     <Content Include="packages\UmbracoCms.Web.8.18.3\lib\net472\Umbraco.Web.xml" />
+    <Content Include="ReadMe.txt" />
     <Content Include="UCommerce.Transactions.Payments.Unzer.csproj.user" />
   </ItemGroup>
   <ItemGroup>
